@@ -1,0 +1,13 @@
+# ignore target folder
+target/
+
+# ignore Eclipse files
+.settings/
+build/
+.classpath
+.project
+.idea/
+venv/
+target/
+*.iml
+**/.DS_Store
